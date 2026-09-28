@@ -1,4 +1,4 @@
-# proyecto 
+# Proyecto 
 Este proyecto documenta una pequeña red local con un servidor y dos equipos cliente, como práctica de Markdown y Linux.
 
 ## Objetivos
